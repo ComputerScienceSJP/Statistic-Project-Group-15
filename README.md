@@ -14,7 +14,7 @@
 - E. M. U. S. Edirisinghe – FC223016 – Interpretation 5  
 
 ## 📂 Repository Structure
-.
+```.
 ├── Interpretation1.r              # R script for Proportion of Solar Adopters
 ├── Interpretation2.r              # R script for Post-Adoption Bill Reduction
 ├── Interpretation3.r              # R script for Correlation between Usage & Bill
@@ -25,7 +25,7 @@
 ├── Solar Project report.pdf       # Final compiled research report (LaTeX output)
 │
 ├── README.md                      # Project overview, instructions, repo guide
-
+```
 
 ## 📝 Project Description
 This project analyzes the adoption of solar power in Colombo and Gampaha districts (2022–2024).  
