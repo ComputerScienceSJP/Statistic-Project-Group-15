@@ -55,5 +55,5 @@ The results provide insights into adoption patterns, cost savings, and potential
 
 ## 🌱 License
 
-This repository is for academic purposes only (University of Sri Jayewardenepura, 2025).
-Please do not reuse the dataset without permission.
+This project is for academic use only. All data has been anonymized.
+(University of Sri Jayewardenepura, 2025).
