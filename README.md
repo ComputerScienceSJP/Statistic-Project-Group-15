@@ -46,13 +46,6 @@ The results provide insights into adoption patterns, cost savings, and potential
 - Correlation & simple linear regression  
 - Data visualization in R  
 
-## ⚙️ How to Reproduce
-1. Clone the repo:
-   ```bash
-   git clone <repo-url>
-   cd <repo>
-
-
 ## 🌱 License
 
 This project is for academic use only. All data has been anonymized.
